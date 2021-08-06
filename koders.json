@@ -1,0 +1,44 @@
+{
+  "koders": [
+    {
+      "id": 1,
+      "name": "Beto",
+      "gender": "m"
+    },
+    {
+      "id": 2,
+      "name": "Walter",
+      "gender": "m"
+    },
+    {
+      "id": 3,
+      "name": "Mariana",
+      "gender": "f"
+    },
+    {
+      "id": 4,
+      "name": "Demian",
+      "gender": "m"
+    },
+    {
+      "id": 5,
+      "name": "Silvi",
+      "gender": "f"
+    },
+    {
+      "id": 6,
+      "name": "Briss",
+      "gender": "f"
+    },
+    {
+      "id": 7,
+      "name": "Marco",
+      "gender": "m"
+    },
+    {
+      "id": 8,
+      "name": "Kelly g",
+      "gender": "f"
+    }
+  ]
+}
